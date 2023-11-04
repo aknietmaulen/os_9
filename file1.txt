@@ -1,2 +1,4 @@
 My name is Akniet
 My name is Nargiz and I'm a developer
+
+Developer needs to download project to his local server, make some changes, merge them and apply to the main project.
